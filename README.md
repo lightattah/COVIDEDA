@@ -1,5 +1,3 @@
-# COVIDEDA
-
 # COVID-19 Data Exploration
 ## Project Overview
 This project involves a detailed exploration of COVID-19 data to uncover insights related to infection rates, death percentages, and comparisons by geographic locations. It uses advanced SQL techniques including joins, CTEs, temporary tables, window functions, and aggregate functions.
